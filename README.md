@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmbasaderAbadi
 - 👀 I’m interested in website development
-- 🌱 I’m currently learning in college department of information technology
+- 🌱 I’m currently studying information technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
