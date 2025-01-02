@@ -2,7 +2,7 @@
 - 👀 I’m interested in website development
 - 🌱 I’m currently studying information technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
 
 <!---
 AmbasaderAbadi/AmbasaderAbadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
